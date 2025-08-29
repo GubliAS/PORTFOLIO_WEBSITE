@@ -17,7 +17,8 @@ export default function Footer() {
               <div className="inline-block transform hover:scale-110 hover:-rotate-3 transition duration-300">
                 <a
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
-                  href="https://manuarora.in"
+                  href="https://www.linkedin.com/in/gubli-sitobu-abdullai-1722042b4"
+                    target="_blank"
                 >
                   GubliAS 
                 </a>
@@ -28,6 +29,7 @@ export default function Footer() {
             {/* LinkedIn */}
             <a
               href={userData.socialLinks.linkedin}
+              target="_blank"
               className="text-base font-normal text-gray-600 dark:text-gray-300"
             >
               <svg
