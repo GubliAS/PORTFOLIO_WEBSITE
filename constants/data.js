@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "GubliAS",
   name: "Abdullai Gubli Sitobu",
   designation: "Frontend Developer, UI/UX Designer",
-  avatarUrl: "/userimg.JPG",
+  avatarUrl: "/userimg.jpeg",
   email: "gsitobu@gmail.com",
   phone: "+233 50 317 7216",
   address: "Accra, Ghana",
