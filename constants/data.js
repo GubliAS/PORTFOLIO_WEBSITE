@@ -74,7 +74,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1JhSdnLX6RucVyOoPkqTwdlZLamwLbUoi/view?usp=sharing",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/gubli-sitobu-abdullai-1722042b4",
     github: "https://github.com/GubliAS",
