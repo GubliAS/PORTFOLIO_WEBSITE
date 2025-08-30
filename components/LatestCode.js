@@ -12,7 +12,7 @@ export default function LatestCode() {
     },
     {
       name: "SwiftMart App",
-      description: "A mobile e-commerce application built with React Native. This was done collaboratively with a team of 7 developers in which i played the role of Project Manager Frontend Developer, UI/UX Designer and lefd in integration of the entire app with backend services.",
+      description: "A mobile e-commerce application built with React Native and Springboot. This was done collaboratively with a team of 7 developers in which i played the role of Project Manager, Frontend Developer, UI/UX Designer and led in integration of the entire app with backend services.",
       clone_url: "https://github.com/SwiftMart-org/SwiftMart_App.git",
     },
     {
@@ -22,7 +22,7 @@ export default function LatestCode() {
     },
     {
       name: "CSS Website",
-      description: "A website designed using pure HTML and CSS. I built this along with tow friends. THis website was our entry into a challenge held by the Computer Science Society, KNUST for the best website design. We emerged first runner-up.",
+      description: "A website designed using pure HTML and CSS. I built this along with two friends. This website was our entry into a challenge held by the Computer Science Society, KNUST for the best website design. We emerged first runner-up.",
       clone_url: "https://github.com/BinaryBond/CSS_WEBSITE.git",
     },
   ];
